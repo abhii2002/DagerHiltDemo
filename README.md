@@ -1,4 +1,4 @@
-# DagerHiltDemo
+# DaggerHiltDemo
  DagerHiltDemo demonstrates user profile database with Hilt, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.
  It is a user profile interface. Where we can store a user profile, and all of its details locally on our device.
  
