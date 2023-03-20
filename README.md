@@ -14,6 +14,7 @@
   - Hilt: Dagger Hilt dependency injection library was crucial since it offers a uniform method of utilizing DI in your application by handling the containers for all Android classes in the project.
 -  Architecture 
    - MVVM : MVVM stands for Model-View-ViewModel architecture. There are several advantages of using MVVM in projects also it is highly recommended by google and android developers teams to use MVVM architecture.
+- [Gldie](https://github.com/bumptech/glide) : To load image into the image view. Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
 
 
 
