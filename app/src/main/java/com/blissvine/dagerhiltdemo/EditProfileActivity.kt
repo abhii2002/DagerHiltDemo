@@ -57,9 +57,6 @@ class EditProfileActivity : AppCompatActivity() {
     //    handleClick()
         checkIfUserHasSavedDetails()
         deleteUserRecord()
-//       edit_image.setOnClickListener {
-//            takePhoto.launch("image/*")
-//        }
         getUserDetails()
     }
 
